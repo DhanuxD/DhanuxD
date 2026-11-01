@@ -8,11 +8,8 @@
   <a href="https://github.com/DhanuxD">
     <img src="https://komarev.com/ghpvc/?username=DhanuxD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DhanuxD&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/DhanuxD?tab=followers">
+    <img src="https://img.shields.io/github/followers/DhanuxD?style=flat&logo=github&label=Followers" alt="Followers" />
   </a>
 </p>
 
@@ -38,6 +35,10 @@ I enjoy building scalable, maintainable applications with a strong focus on **Cl
 ---
 
 ## 🚀 What I'm Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,nodejs,express,react,ts,js,mysql,mongodb,sqlite,firebase,git,github,docker,figma,vscode" alt="Skills" />
+</p>
 
 ### 📱 Mobile Development
 
@@ -181,23 +182,10 @@ Working primarily on Flutter applications across multiple projects, with a focus
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhanuxD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanuxD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhanuxD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanuxD&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/DhanuxD" alt="GitHub Contribution Graph" />
 </p>
 
 ---
